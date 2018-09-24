@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My favorite Mustang's of all time!</h1>
+<p>Having previously owned a 2004 Ford Mustang Mach 1, I developed a strong connection with mustangs. The raw experience you get from driving a mustang is like no other.</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>2004 Oxford White Ford Mustang Mach 1  </h2>
+<img src="http://carphotos.cardomain.com/ride_images/4/337/241/38340120001_original.jpg?v=0" alt="Trulli" width="500" height="333">
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>2013 Ford Mustang Shelby GT500 </h2>
+<img src="http://www.themotoringenthusiastjournal.com/photo_gallery/images/mustang_50/2013_mustang_shelby_gt500_13.jpg"  width="500" height="333">
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>2004 Ford Mustang SVT Cobra </h2>
+<img src="https://static.cargurus.com/images/site/2018/07/20/13/04/ford_mustang_svt_cobra-pic-231549401867584783-1600x1200.jpeg"  width="500" height="333">
+
+</body>
+</html>
+
+
